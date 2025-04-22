@@ -1,0 +1,14 @@
+.link {
+    color: #444;
+    text-decoration: none;
+    padding: 8px 12px;
+    font-weight: normal;
+  }
+  
+  .active {
+    color: #ffffff;
+    background-color: #0077ff;
+    border-radius: 6px;
+    font-weight: bold;
+  }
+  
