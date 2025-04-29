@@ -1,0 +1,33 @@
+.reviewTitle {
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  .reviewList {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+  
+  .reviewListItem {
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+  }
+  
+  .author {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .noReviews {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    margin-bottom: 40px;
+  }
