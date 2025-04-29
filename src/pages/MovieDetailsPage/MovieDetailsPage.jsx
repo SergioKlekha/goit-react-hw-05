@@ -6,7 +6,7 @@ import {
   useNavigate,
   useParams,
 } from 'react-router-dom';
-import { fetchMovieById } from '../../services/api';
+import { fetchMovieById } from '../../assets/services/api';
 import { GoArrowLeft } from 'react-icons/go';
 import s from './MovieDetailsPage.module.css';
 
